@@ -11,6 +11,13 @@
 		$dia--;
 	}
 	print "<p>fin</p>";
+
+	$contador = 0;
+	while($contador<10){
+		print("<p>El valor de contador es $contador</p>");
+		$contador++;
+	}
+	print "<p>fin</p>";
 ?>
 </body>
 </html>
