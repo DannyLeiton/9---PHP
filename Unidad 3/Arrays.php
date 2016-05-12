@@ -119,7 +119,7 @@
 				"promedio"=>10
 			);
 
-	print "<p>El alumno se llama $alumno[nombre], $alumno[apellido], tiene $alumno[edad] anios</p>";
+	print "<p>El alumno se llama $alumno[nombre], $alumno[apellido], tiene $alumno[edad] anios</p> y un promedio de $alumno[promedio]";
 
 	print("<ul>");
 	foreach ($alumno as $key => $value) {
