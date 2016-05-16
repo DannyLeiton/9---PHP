@@ -23,6 +23,8 @@ if(isset($_POST['buscar'])){
 	if($buscar != ""){
 		//4. Llamar a la función buscaPalabras()
         buscaPalabras($buscar);
+    }else{
+        echo "<p>Debe indicar un valor de b&uacute;squeda.</p>";
     }
 }	
 //5. La función buscaPalabras tiene como parámetro $busca
@@ -30,16 +32,16 @@ function buscaPalabras($busca){
 	//6. Hacer global el arreglo $texto
 	global $texto;
 	//7. Hacer un ciclo de 0 al número de elementos del arreglo $texto
-	foreach($texto as $text){
-		//8. Variable "enunciado"
-		$enunciado = strtolower($text);
-		//9. Variable busca
-		$busca = strtolower($busca);
-		//10. Busca la variable "busca" en el "enunciado"
-		if(strstr($enunciado, $busca)){
-			//11. Si no lo encuentra, marca el elemento del arreglo
-            $text = "***";
-        }
+	for($i=0; $i<count($texto); $i++){
+        //8. Variable "enunciado"
+        $enunciado = strtolower($texto[$i]);
+        //9. Variable busca
+        $busca = strtolower($busca);
+        //10. Busca la variable "busca" en el "enunciado"
+        if(!strstr($enunciado, $busca)){
+            //11. Si no lo encuentra, marca el elemento del arreglo
+            $texto[$i] = "***";
+        }   
     }
 }
 ?>
@@ -108,8 +110,7 @@ function buscaPalabras($busca){
 				print $texto[$i];
 			}
 		}
-		?>
-        
+		?>        
   	</div>
   </div>
 </article>

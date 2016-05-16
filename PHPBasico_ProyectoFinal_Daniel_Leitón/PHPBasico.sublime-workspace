@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"BUSCRA",
+				"buscar"
+			],
+			[
+				"A",
+				"apellidos"
+			],
+			[
+				"play",
+				"playList"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"pla",
+				"playingTrack"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"shult",
+				"shultzSongs"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"naran",
+				"Naranja1"
+			],
+			[
+				"naranj",
+				"naranja2"
+			],
+			[
+				"a",
+				"array2"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"arr",
+				"array2"
+			],
+			[
+				"todo",
+				"todos_array"
+			],
+			[
+				"pa",
+				"palabras"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"text",
+				"texto"
+			],
+			[
+				"pala",
+				"palabras_array"
+			],
+			[
+				"Te",
+				"text"
+			],
+			[
+				"dialo",
+				"dialog"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"e",
+				"efecto"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"efec",
+				"efectoSel"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ta",
+				"tabs"
+			],
+			[
+				"ui-tabs-",
+				"ui-tabs-nav"
+			],
+			[
+				"tasb",
+				"tabs-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"progr",
+				"progressbar"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"button",
+				"buttonImage"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"bu",
+				"buttonSet"
+			],
+			[
+				"ch",
+				"charAt"
+			],
+			[
+				"fro",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ree",
+				"request"
+			],
+			[
+				"mario",
+				"marioBross"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"zona",
+				"zonaMario"
+			],
+			[
+				"edss_",
+				"edss_app_"
+			],
+			[
+				"hide",
+				"hideSearchPanel"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"sho",
+				"showSearchPanel"
+			],
+			[
+				"HI",
+				"hideSearchPanel"
+			],
+			[
+				"split",
+				"splitBar"
+			],
+			[
+				"sea",
+				"searchValue"
+			],
+			[
+				"locatio",
+				"location"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"S",
+				"ShowInfo"
+			],
+			[
+				"se",
+				"searchResultNodeList"
+			],
+			[
+				"occ",
+				"occurrencesList"
+			],
+			[
+				"full",
+				"fullPath"
+			],
+			[
+				"Show",
+				"ShowInfo"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"promise",
+				"promise1"
+			],
+			[
+				"pro",
+				"promise1"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"Full",
+				"fullSearchResult"
+			],
+			[
+				"promis",
+				"promise2"
+			],
+			[
+				"pri",
+				"promise1"
+			],
+			[
+				"teh",
+				"then"
+			],
+			[
+				"all",
+				"allPromises"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"proj",
+				"projects"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: Ins",
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/PHPBasico_ProyectoFinal_Daniel_Leitón"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHPBasico_ProyectoFinal/afiliadas.php",
+		"/C/xampp/htdocs/PHPBasico_ProyectoFinal/empresa.php",
+		"/C/xampp/htdocs/Unidad 4/Actividad de codigo-1.html",
+		"/C/xampp/htdocs/Unidad 4/Actividad de codigo-1.php",
+		"/C/xampp/htdocs/Unidad 4/WEB-C09-U4-L1-02-forma.php",
+		"/C/xampp/htdocs/Unidad 4/valida1.php",
+		"/C/xampp/htdocs/Unidad 4/valida.php",
+		"/C/xampp/htdocs/Unidad 4/forma.html",
+		"/C/xampp/htdocs/Unidad 4/correcto.php",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_SPA_RedireccionarPaginasComandoHeaderPHP_V1.zip/SPA_RedireccionarPaginasComandoHeaderPHP_V1/forma2.html",
+		"/C/xampp/htdocs/Unidad 4/imagenes.php",
+		"/C/xampp/htdocs/Unidad 4/dioses.html",
+		"/C/xampp/htdocs/Unidad 4/forma2.html",
+		"/C/xampp/htdocs/Unidad 3/Leccion 2 Act Code 1.php",
+		"/C/xampp/htdocs/Unidad 3/Arrays.php",
+		"/C/xampp/htdocs/Unidad 1/variablesDeVariablesYConstantes 2.php",
+		"/C/xampp/htdocs/Unidad 3/Leccion 1 Creacion y manejo de arreglos.php",
+		"/C/xampp/htdocs/Unidad 3/Actividad 2 Creacion y manejo de arreglos.php",
+		"/C/xampp/htdocs/Unidad 3/funciones.php",
+		"/C/EDSS-UI/edss_user_webui_development/package.json",
+		"/C/EDSS-UI/edss_user_webui_development/node_modules/gulp/node_modules/undertaker/package.json",
+		"/C/xampp/htdocs/Unidad 2/OperadoresLogicos.php",
+		"/C/xampp/htdocs/Unidad 2/Comparaciones.php",
+		"/C/xampp/htdocs/variablesDeVariablesYConstantes.php",
+		"/C/xampp/htdocs/Lesson 2 variables.php",
+		"/C/xampp/htdocs/Unidad 2/SentenciasCondicionales.php",
+		"/C/xampp/htdocs/variables de variables y constantes.php",
+		"/C/xampp/htdocs/Operaciones.php",
+		"/C/xampp/htdocs/Concatenar.php",
+		"/C/xampp/htdocs/Variables.php",
+		"/C/xampp/htdocs/Lesson 1 Intro to PHP.php",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/HelloWorld.php",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/holaMundo.php",
+		"/C/xampp/htdocs/mezcla.php",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/mezcla.php",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/phpVersion.php",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/phpVersion",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 4 - Image Handling/Lesson 1 - ToolTipsjQuery/zeus_final.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/9---PHP/HelloWorld.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/jQueryEjemplos_ProyectoFinal_Daniel_Leiton/tiendas.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/5 - XML/XML_ProyectoFinal_Daniel_Leitón/tiendas.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/Lesson2_DropMenujQuery/Escuela de Software.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/jQueryEjemplos_ProyectoFinal_Daniel_Leiton/producto.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/jQueryEjemplos_ProyectoFinal_Daniel_Leiton/pintura.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/jQueryEjemplos_ProyectoFinal_Daniel_Leiton/informacion.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/jQueryEjemplos_ProyectoFinal_Daniel_Leiton/socios.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 4 - Image Handling/1 - ToolTipsjQuery/zeus_final.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/Lesson 3 - 3D go-round(carousel)/mario go-round.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/Lesson 3 - 3D go-round(carousel)/Lección 3 Crear un carrusel 3D con jQuery mario go-round.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 4 - Image Handling/Lesson 2 - RollOverjQuery/rollover04.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/Lesson2_DropMenujQuery/menu04.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/Lección 1 Crear un juego de palabras arrastrables.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/palabras07.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/palabras02.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_SPA_JuegoPalabrasArrastrables_V1 (1).zip/SPA_JuegoPalabrasArrastrables_V1/palabras07.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 3 - Draggable Words/palabras06.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/Lección 2 Actividad Realiza una galería con efecto flip.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/galeriaFlip05.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 3 - DragDrop/My Lección 3 Crear un juego con el Drag Drop.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/js/jquery.flip.js",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/js/jquery.flip.min.js",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 2 - flip Efect/mosaico04.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 3 - DragDrop/Lección 3 Actividad Hacer una aplicacion Drag n Drop.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 3 - DragDrop/Lección 3 Crear un juego con el Drag Drop.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/My Lección 2 Crear un juego de memoria con jQuery.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/memoria6.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_WEB-C08-U1-L2-dragdrop.zip/WEB-C08-U1-L2-dragdrop/jQejem-aplicacion-0102.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7 - jQueryUI/Unidad 2 - Widgets/Botones.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Sol Lección 2 Crear un juego de memoria con jQuery.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 3 - DragDrop/js/prefixfree.min.js",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 3 - DragDrop/arrastraFoto6.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 2 Actividad Generar un juego de cartas.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 2 Crear un juego de memoria con jQuery.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_WEB-C08-U1-L1-memoria.zip/WEB-C08-U1-L1-memoria/jQejem-aplicacion-0101.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/memoria2.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7 - jQueryUI/Unidad 3 - Fechas Ventanas Menu Progress/dialog.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/memoria.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/js/menu.js",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/home.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/index.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/8---jQueryByExample/Unit 1 - Animations and Games/Lección 1 Actividad Crear una pantalla de bienvenida con jQuery.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7 - jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Effects - Show.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/spinner.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Tabs - Abajo.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/SliderColores2.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/slider - Copy.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/slider.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Lección 3 Actividad Crear un efecto con jQuery UI.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Tabs - Themes.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Themes.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Effects - Color.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Effects - Color - Copy.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Effects - Show.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Effects.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Tooltips.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Sortable Tabs.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/TabsBotones.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Tabs.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Lección 1 Actividad 1 Crear deslizadores con jQuery UI.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Lección 1 Actividad 2  El widget spinner en jQuery UI.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 4 - Deslizadores Tabuladores Efectos Temas/Controlador deslizadores.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_SPA_ControladorColorDeslizadoresjQueryUI2_V1.zip/SPA_ControladorColorDeslizadoresjQueryUI2_V1/SliderColores2.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 3 - Fechas Ventanas Menu Progress/datepicket showAnim.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 3 - Fechas Ventanas Menu Progress/dateFormat.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 3 - Fechas Ventanas Menu Progress/datepicker.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Autocomplete.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/AutocompleteAcentos.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Autocomplete - Callback.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Botones.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion - heightStyle.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion - icons.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion - Sortable.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Lección 1 Actividad_ Crear un acordeón con jQuery UI.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion - Contenedor Resizable.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_SPA_AlturaPestanasAcordeonjQueryUI_V1.zip/SPA_AlturaPestanasAcordeonjQueryUI_V1/AccordionHeightStyle.html",
+		"/C/Users/leitondx/AppData/Local/Temp/Temp1_SPA_AlturaPestanasAcordeonjQueryUI_V1.zip/SPA_AlturaPestanasAcordeonjQueryUI_V1/Accordion.html",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/Unidad 2 - Widgets/Accordion - Copy.html",
+		"/C/EDSS-UI/edss_user_webui_development/app/components/treeView/treeView.controller.js",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-mincer.scss",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/angular-bootstrap/ui-bootstrap-csp.css",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/angular-animate/angular-animate.js",
+		"/C/EDSS-UI/edss_user_webui_development/app/bower_components/angular/angular-csp.css",
+		"/C/EDSS-UI/edss_user_webui_development/constants.json",
+		"/C/EDSS-UI/edss_user_webui_development/app/constants.js",
+		"/C/Users/leitondx/Dropbox/Administrativos/Certificaciones/Desarrollador Web/7- jQueryUI/InteraccionesjQueryUI/droppableAccept.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"args",
+			"Dist tasks",
+			"constants",
+			"build",
+			"-.-'</",
+			"i",
+			"\"+$",
+			"foto",
+			".caja",
+			".img",
+			"img",
+			"height",
+			".palabra",
+			"fotos_array",
+			"cuadros_array",
+			"score",
+			"clearInterval",
+			"Math.floor(Math.random()*num)",
+			"*",
+			"$zindex-tooltip",
+			"z-in",
+			"panel-heading",
+			"panel-body",
+			".panel-he",
+			"GUID",
+			"diosa",
+			"security champ",
+			"splitbar",
+			"hideSearchPanel",
+			"hideSearchPa",
+			"vm.searchValue",
+			"vm.searchResult",
+			"hideSearchPanel",
+			"vm.hideSearchPanel",
+			"vm.refreshIfEmpty()",
+			"docs",
+			"vm.searchResult",
+			"vm.searchResultNodeList",
+			"vm.filtered",
+			"list-group-item",
+			"a {",
+			"vm.searchValue",
+			"\">",
+			"splitBar",
+			"vm.treePanelSize",
+			"panel",
+			"panel-body",
+			"searchResult",
+			"split",
+			"size",
+			"height",
+			"vm.treePanelSize",
+			"vm.searchResult",
+			"panel panel-default",
+			"treeView",
+			"sidebar",
+			"side",
+			"searchResult",
+			"SelectSearchResultNode",
+			"activeGuid",
+			"actualTree",
+			"FullSearchResult",
+			"SelectSearchResultNode",
+			"a:",
+			"expandedNodes",
+			"vm.expandedNodes",
+			"expandedNodes",
+			"SetUrls",
+			"route",
+			"getActive",
+			"scope.node",
+			"setGuid",
+			"setActive",
+			"getBreadcrumbs",
+			"expandTreeToActiveNode",
+			"Breadcrumbs",
+			"expandedNodes",
+			"setoptionSelected",
+			"SharedService",
+			"optionSelected",
+			"setoptionSelected",
+			"activeGuid",
+			"setoptionSelected",
+			"expandTreeToActiveNode",
+			"onNodeSelect",
+			"vm.expandedNodes",
+			"vm.options",
+			"vm.structure",
+			"occurrencesList",
+			"triggerOnRouteChange",
+			"expandTreeToActiveNode",
+			"getTreeViewNodes",
+			"SetTreeViewData",
+			"cache",
+			"spacr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "PHPBasico.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
